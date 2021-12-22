@@ -1,0 +1,31 @@
+body {
+    color: #2e323c;
+    background: #f5f6fa;
+}
+
+.card{
+    margin: 10px;
+    margin-left: 100px;
+    width: 85%;
+}
+
+.update {
+    margin-top: 20px;
+}
+
+.btn-outline-success{
+    width: 200px;
+}
+
+.card-body{
+    margin-left: 30px;
+    border-style: inherit;
+}
+
+.row{
+    margin: 50px;
+}
+
+.card-text{
+    margin-bottom: 30px;
+}
